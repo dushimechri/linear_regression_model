@@ -9,5 +9,5 @@ that influence diabetes progression after one year.
 
 Rather than focusing only on prediction accuracy, this study emphasizes interpretability and clinical insights 
 to support better healthcare decision-making.
-# Dataset: Scikit-learn Diabetes Dataset (Efron et al., 2004)
-# Best Model: Random Forest Regressor (Test MSE: 2835.96, R²: 0.46)
+**Dataset:** Scikit-learn Diabetes Dataset (Efron et al., 2004)
+**Best Model**: Random Forest Regressor (Test MSE: 2835.96, R²: 0.46)
